@@ -4,6 +4,32 @@ By: Jiwoong Song (jisongimsorry@gmail.com)
 
 tel: @Hoichate
 
+## Week2
+
+Symmetric vs. Asymmetric
+
+If you use only ONE Key -> Symmetric
+
+    Encrypt and Decrypt using the same key (AES)
+
+If you use TWO Keys -> Asymmetric
+
+    Encrypt with Private Key (Signing)
+
+    Decrypt using Public Key
+
+Hash -> SHA256
+
+    Transforms a given string to fixed-size output!
+
+    in O1JS, Poseidon does this feature for us
+
+Digital Signature
+
+    Very important in blockchain!
+
+    Used very popularly through ETH based chains
+
 ## Week1
 
 o1js -> using React to study o1js
